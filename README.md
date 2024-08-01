@@ -16,7 +16,7 @@ This course contains lots of labs for JavaScript, each lab is a small JavaScript
 |     003 | 📖 Value Is Null                                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28429'>Start Lab</a>  |
 |     004 | 📖 Environment Is Travis CI                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28446'>Start Lab</a>  |
 |     005 | 📖 Random Boolean Value                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28569'>Start Lab</a>  |
-|     006 | 📖 Mastering JavaScript Fundamentals Lab                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28197'>Start Lab</a>  |
+|     006 | 📖 JavaScript Fundamentals Lab                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28197'>Start Lab</a>  |
 |     007 | 📖 Group Array Elements Based on Function                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28366'>Start Lab</a>  |
 |     008 | 📖 Add Date by Days in JavaScript                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28123'>Start Lab</a>  |
 |     009 | 📖 Add Minutes to Date                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28126'>Start Lab</a>  |
@@ -30,7 +30,7 @@ This course contains lots of labs for JavaScript, each lab is a small JavaScript
 |     017 | 📖 Check if Array Includes All Values                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28146'>Start Lab</a>  |
 |     018 | 📖 Check if Array Includes Any Values                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28147'>Start Lab</a>  |
 |     019 | 📖 Random Element in Array                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28153'>Start Lab</a>  |
-|     020 | 📖 Mastering JavaScript Fundamentals Through Coding      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28156'>Start Lab</a>  |
+|     020 | 📖 JavaScript Fundamentals Through Coding                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28156'>Start Lab</a>  |
 |     021 | 📖 Array Without Last Element                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28163'>Start Lab</a>  |
 |     022 | 📖 Assert Object Keys Are Valid                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28167'>Start Lab</a>  |
 |     023 | 📖 Calculating String Byte Size                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28182'>Start Lab</a>  |
@@ -63,7 +63,7 @@ This course contains lots of labs for JavaScript, each lab is a small JavaScript
 |     050 | 📖 Drop Array Elements From the Left                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28279'>Start Lab</a>  |
 |     051 | 📖 Drop Array Elements From the Right                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28281'>Start Lab</a>  |
 |     052 | 📖 Encode String to Base64                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28285'>Start Lab</a>  |
-|     053 | 📖 Mastering JavaScript Regular Expressions              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28288'>Start Lab</a>  |
+|     053 | 📖 JavaScript Regular Expressions                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28288'>Start Lab</a>  |
 |     054 | 📖 Expand Tabs Into Spaces                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28291'>Start Lab</a>  |
 |     055 | 📖 Fahrenheit to Celsius                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28294'>Start Lab</a>  |
 |     056 | 📖 First N Elements                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28309'>Start Lab</a>  |
@@ -107,10 +107,10 @@ This course contains lots of labs for JavaScript, each lab is a small JavaScript
 |     094 | 📖 Logarithm in Specific Base                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28473'>Start Lab</a>  |
 |     095 | 📖 Calculating Midpoint Between Coordinates Using Jav... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28498'>Start Lab</a>  |
 |     096 | 📖 Convert Miles to Kilometers in JavaScript             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28499'>Start Lab</a>  |
-|     097 | 📖 Mastering JavaScript Nor Operator                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28509'>Start Lab</a>  |
+|     097 | 📖 JavaScript Nor Operator                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28509'>Start Lab</a>  |
 |     098 | 📖 Normalize Line Endings                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28510'>Start Lab</a>  |
 |     099 | 📖 Exploring JavaScript Logical Not Operator             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28511'>Start Lab</a>  |
-|     100 | 📖 Mastering JavaScript's nthElement Function            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28513'>Start Lab</a>  |
+|     100 | 📖 JavaScript's nthElement Function                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28513'>Start Lab</a>  |
 |     101 | 📖 NTH Root of Number                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28514'>Start Lab</a>  |
 |     102 | 📖 Number to Currency String                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28516'>Start Lab</a>  |
 |     103 | 📖 Number to Decimal Mark                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28517'>Start Lab</a>  |
@@ -127,7 +127,7 @@ This course contains lots of labs for JavaScript, each lab is a small JavaScript
 |     114 | 📖 Remove Non ASCII Characters                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28589'>Start Lab</a>  |
 |     115 | 📖 String Manipulation with JavaScript                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28590'>Start Lab</a>  |
 |     116 | 📖 RGB to Hexadecimal Color Conversion in JavaScript     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28601'>Start Lab</a>  |
-|     117 | 📖 Mastering JavaScript Basics Through Hands-on          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28602'>Start Lab</a>  |
+|     117 | 📖 JavaScript Basics Through Hands-on                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28602'>Start Lab</a>  |
 |     118 | 📖 RGB to HSL Color Conversion                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28603'>Start Lab</a>  |
 |     119 | 📖 Sort Array Alphabetically                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28618'>Start Lab</a>  |
 |     120 | 📖 Split Into Chunks                                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28621'>Start Lab</a>  |
@@ -175,7 +175,7 @@ This course contains lots of labs for JavaScript, each lab is a small JavaScript
 |     162 | 📖 Stream Is Writable                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28450'>Start Lab</a>  |
 |     163 | 📖 Check if Value Is of Type                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28690'>Start Lab</a>  |
 |     164 | 📖 Bifurcate Array Based on Function                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28170'>Start Lab</a>  |
-|     165 | 📖 Mastering JavaScript Programming Fundamentals         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28177'>Start Lab</a>  |
+|     165 | 📖 JavaScript Programming Fundamentals                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28177'>Start Lab</a>  |
 |     166 | 📖 Count Substrings of String                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28223'>Start Lab</a>  |
 |     167 | 📖 String Ends With Substring                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28286'>Start Lab</a>  |
 |     168 | 📖 Checking Prime Numbers in JavaScript                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28437'>Start Lab</a>  |
@@ -217,7 +217,7 @@ This course contains lots of labs for JavaScript, each lab is a small JavaScript
 |     204 | 📖 Join Array Into String                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28455'>Start Lab</a>  |
 |     205 | 📖 Map Consecutive Elements                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28479'>Start Lab</a>  |
 |     206 | 📖 Mapping String Characters in JavaScript               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28481'>Start Lab</a>  |
-|     207 | 📖 Mastering Merge Sort in JavaScript                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28496'>Start Lab</a>  |
+|     207 | 📖 Merge Sort in JavaScript                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28496'>Start Lab</a>  |
 |     208 | 📖 Percentile of Matches                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28542'>Start Lab</a>  |
 |     209 | 📖 Generating Powerset with JavaScript                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28549'>Start Lab</a>  |
 |     210 | 📖 Pretty-Print Number of Bytes                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28554'>Start Lab</a>  |
@@ -257,7 +257,7 @@ This course contains lots of labs for JavaScript, each lab is a small JavaScript
 |     244 | 📖 Call or Return                                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28186'>Start Lab</a>  |
 |     245 | 📖 Capitalize First Letter in JavaScript                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28188'>Start Lab</a>  |
 |     246 | 📖 Convert Function From Variadic                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28213'>Start Lab</a>  |
-|     247 | 📖 Mastering JavaScript Currying Techniques              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28233'>Start Lab</a>  |
+|     247 | 📖 JavaScript Currying Techniques                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28233'>Start Lab</a>  |
 |     248 | 📖 Decapitalize First Letter in JavaScript               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28258'>Start Lab</a>  |
 |     249 | 📖 Disjointed Iterables in JavaScript                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28275'>Start Lab</a>  |
 |     250 | 📖 Logical or for Functions                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28341'>Start Lab</a>  |
@@ -266,7 +266,7 @@ This course contains lots of labs for JavaScript, each lab is a small JavaScript
 |     253 | 📖 Check if Date Is Valid                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28415'>Start Lab</a>  |
 |     254 | 📖 Join URL Segments                                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28456'>Start Lab</a>  |
 |     255 | 📖 Exploring Logical Complement in JavaScript            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28474'>Start Lab</a>  |
-|     256 | 📖 Mastering JavaScript Programming Techniques           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28491'>Start Lab</a>  |
+|     256 | 📖 JavaScript Programming Techniques                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28491'>Start Lab</a>  |
 |     257 | 📖 Exploring JavaScript Programming Concepts             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28500'>Start Lab</a>  |
 |     258 | 📖 Retrieve Maximum Elements from Array                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28504'>Start Lab</a>  |
 |     259 | 📖 N Min Elements                                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28505'>Start Lab</a>  |
@@ -334,7 +334,7 @@ This course contains lots of labs for JavaScript, each lab is a small JavaScript
 |     321 | 📖 Array Is Contained in Other Array                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28149'>Start Lab</a>  |
 |     322 | 📖 Check if Absolute URL                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28406'>Start Lab</a>  |
 |     323 | 📖 Value Is Plain Object                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28434'>Start Lab</a>  |
-|     324 | 📖 Mastering JavaScript Programming Concepts             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28493'>Start Lab</a>  |
+|     324 | 📖 JavaScript Programming Concepts                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28493'>Start Lab</a>  |
 |     325 | 📖 Run Promises in Series                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28607'>Start Lab</a>  |
 |     326 | 📖 Record Animation Frames                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28578'>Start Lab</a>  |
 |     327 | 📖 Recursive Falsy Value Removal in JavaScript           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28206'>Start Lab</a>  |
@@ -365,7 +365,7 @@ This course contains lots of labs for JavaScript, each lab is a small JavaScript
 |     352 | 📖 Average of Numbers                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28169'>Start Lab</a>  |
 |     353 | 📖 Implementing Bucket Sort in JavaScript                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28181'>Start Lab</a>  |
 |     354 | 📖 Calculating Cartesian Product with JavaScript         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28189'>Start Lab</a>  |
-|     355 | 📖 Mastering Function Composition in JavaScript          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28208'>Start Lab</a>  |
+|     355 | 📖 Function Composition in JavaScript                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28208'>Start Lab</a>  |
 |     356 | 📖 Converge Branching Functions                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28212'>Start Lab</a>  |
 |     357 | 📖 Deep Flatten Array                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28262'>Start Lab</a>  |
 |     358 | 📖 Filter Non-Unique Array Values                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28297'>Start Lab</a>  |
@@ -380,7 +380,7 @@ This course contains lots of labs for JavaScript, each lab is a small JavaScript
 |     367 | 📖 Index of All Matches                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28388'>Start Lab</a>  |
 |     368 | 📖 Invoke Functions on Arguments                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28405'>Start Lab</a>  |
 |     369 | 📖 Value Is Promise-Like                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28439'>Start Lab</a>  |
-|     370 | 📖 Mastering Juxtapose Functions in JavaScript           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28459'>Start Lab</a>  |
+|     370 | 📖 Juxtapose Functions in JavaScript                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28459'>Start Lab</a>  |
 |     371 | 📖 Calculate Least Common Multiple Using JavaScript      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28467'>Start Lab</a>  |
 |     372 | 📖 Longest Item in Array                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28475'>Start Lab</a>  |
 |     373 | 📖 Mapped Array Intersection                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28485'>Start Lab</a>  |
@@ -389,7 +389,7 @@ This course contains lots of labs for JavaScript, each lab is a small JavaScript
 |     376 | 📖 Product of Numeric Values                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28558'>Start Lab</a>  |
 |     377 | 📖 Reject Non-Matching Values                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28580'>Start Lab</a>  |
 |     378 | 📖 Composing Functions Left to Right                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28597'>Start Lab</a>  |
-|     379 | 📖 Mastering Array Reduction in JavaScript               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28633'>Start Lab</a>  |
+|     379 | 📖 Array Reduction in JavaScript                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28633'>Start Lab</a>  |
 |     380 | 📖 Swap String Case with JavaScript                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28638'>Start Lab</a>  |
 |     381 | 📖 Toggle Element in Array                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28664'>Start Lab</a>  |
 |     382 | 📖 Weighted Random Sampling in JavaScript                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28696'>Start Lab</a>  |
@@ -468,7 +468,7 @@ This course contains lots of labs for JavaScript, each lab is a small JavaScript
 |     455 | 📖 Replace or Append Array Value                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28595'>Start Lab</a>  |
 |     456 | 📖 Iterate Over Object's Own Properties in Reverse       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28598'>Start Lab</a>  |
 |     457 | 📖 Freeze Set Object                                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28319'>Start Lab</a>  |
-|     458 | 📖 Mastering Function Currying in JavaScript             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28676'>Start Lab</a>  |
+|     458 | 📖 Function Currying in JavaScript                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28676'>Start Lab</a>  |
 |     459 | 📖 Initialize N-Dimensional Array                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28397'>Start Lab</a>  |
 |     460 | 📖 Pull Values From Array                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28563'>Start Lab</a>  |
 |     461 | 📖 Convert Function to Variadic                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28214'>Start Lab</a>  |
